@@ -591,7 +591,7 @@ const Chat = () => {
                                     aria-hidden="true"
                                 />
                                 <h1 className={styles.chatEmptyStateTitle}>Start asking your questions about DSO at Bayer</h1>
-                                <h2 className={styles.chatEmptyStateSubtitle}>daAIsy DSO - your AI powered Dynamic Shared Ownership assistant</h2>
+                                <h2 className={styles.chatEmptyStateSubtitle}>dAIsy DSO - your AI powered Dynamic Shared Ownership assistant</h2>
                                 <h2 className={styles.chatEmptyStateSubtitle}>This chatbot is trained by DSO content collected from video transcripts, PowerPoint files, intranet content and additional content  related to DSO, helix organization, etc.</h2>
                                 <h2 className={styles.chatEmptyStateSubtitle}>To save resources the chatbot expects correct spelling (it won´t correct spelling mistakes in your input). Have fun! :)</h2>
                                 <h2 className={styles.chatEmptyStateSubtitle}>Nina Hillen, Dirk Helwig & Robert Adams</h2>
