@@ -586,9 +586,10 @@ const Chat = () => {
                         {!messages || messages.length < 1 ? (
                             <Stack className={styles.chatEmptyState}>
                                 <img
-                                    src={Azure}
-                                    className={styles.chatIcon}
-                                    aria-hidden="true"
+                                    src={dAIsy}
+                                    alt="dAIsy" 
+                                    width="120" 
+                                    height="120">
                                 />
                                 <h1 className={styles.chatEmptyStateTitle}>Start asking your questions about DSO at Bayer</h1>
                                 <h2 className={styles.chatEmptyStateSubtitle}>dAIsy DSO - your AI powered Dynamic Shared Ownership assistant</h2>
